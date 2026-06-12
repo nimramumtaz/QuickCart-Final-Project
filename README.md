@@ -17,8 +17,8 @@ The project simulates a real-world mega mall where users can browse products fro
 
 | | Link |
 |---|---|
-| 🌐 **Deployed Project** | [Add your deployed link here](#) |
-| 💻 **GitHub Repository** | [Add your GitHub repo link here](#) |
+| 🌐 **Deployed Project** | [quickcart-final-project-production.up.railway.app](#) |
+| 💻 **GitHub Repository** | [https://github.com/nimramumtaz/QuickCart-Final-Project](#) |
 
 ---
 
